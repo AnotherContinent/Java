@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;Project10.java&apos; to &apos;Midterm&apos;&#x0A;- Original project: &apos;Project10&apos;&#x0A;- Destination element: &apos;Midterm&apos;&#x0A;- Original element: &apos;Project10.java&apos;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="=Midterm" element1="/src&lt;{Project10.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1431282885760" units="1" version="1.0"/>
+</session>

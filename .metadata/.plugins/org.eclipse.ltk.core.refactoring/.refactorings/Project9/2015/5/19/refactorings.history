@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 6 elements to &apos;ThreadedRaceCar/src/lib&apos;&#x0A;- Original project: &apos;Project9&apos;&#x0A;- Destination element: &apos;ThreadedRaceCar/src/lib&apos;&#x0A;- Original elements:&#x0A;     mail.jar&#x0A;     acme.jar&#x0A;     mysqljdbc.jar&#x0A;     activation.jar&#x0A;     mysql-connector-java-5.1.35-bin.jar&#x0A;     ojdbc6.jar&#x0A;- Update references to refactored element" description="Move files" destination="=ThreadedRaceCar/src&lt;lib" element1="src/lib/mail.jar" element2="src/lib/acme.jar" element3="src/lib/mysqljdbc.jar" element4="src/lib/activation.jar" element5="src/lib/mysql-connector-java-5.1.35-bin.jar" element6="src/lib/ojdbc6.jar" files="6" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1430684556754" units="0" version="1.0"/>
+</session>
